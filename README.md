@@ -20,4 +20,7 @@
 * Hollywood principle："Don't call me; I'll call you."
   - [read more](http://www.tuicool.com/articles/2ma2aa)
 * 单一职责原则（Single responsibility principle）（一个类应该只有一个引起变化的原因）
+
+//TODO
+Some pattern goes here
   
