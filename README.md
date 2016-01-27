@@ -23,4 +23,3 @@
 
 //TODO
 Some pattern goes here
-  
